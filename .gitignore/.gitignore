@@ -1,4 +1,4 @@
 letter <- function(x){
-  x<- sample(letters,1)
+ sample(letters,1)
 }
-letter()
+
