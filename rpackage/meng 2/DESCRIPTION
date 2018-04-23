@@ -1,0 +1,14 @@
+Package: meng
+Title: random letter
+Version: 0.0.0.9000
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: randomly genereting a letter from the alphbet
+Depends: R (>= 3.4.1)
+License: LUC
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+NeedsCompilation: no
+Packaged: 2018-04-22 22:42:31 UTC; xiemeng
+Author: First Last [aut, cre]
+Maintainer: First Last <first.last@example.com>
